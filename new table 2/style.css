@@ -1,0 +1,240 @@
+@font-face {
+    font-family: "Inter";
+    src: url("fonts/Inter-Medium.ttf");
+}
+.h1{
+    width: 152px;
+    height: 22px;
+    color: #000;
+    font-size: 25px;
+    font-weight: bold;
+    margin-left:114px ;
+    margin-top: 38px;
+    font-family: Inter;
+    
+}
+.h2{
+    width: 152px;
+    height: 22px;
+    color: #000;
+    font-size: 25px;
+    font-weight: bold;
+    margin-left:114px ;
+    margin-top: 66px;
+    font-family: Inter;
+    
+}
+
+.thid{
+    width: 16px;
+    height: 22px;
+    color: #000;
+    font-weight: bold;
+    padding-right:70px ;
+    font-family: Inter;
+    
+
+}
+.thtitle{
+    width: 49px;
+    height: 22px;
+    font-weight: bold;
+    color: #000;
+    padding-right: 550px;
+    font-family: Inter;
+
+
+}
+.that{
+    width: 109px;
+    height: 22px;
+    color: #000;
+    font-weight: bold;
+    padding-right:110px ;
+    font-family: Inter;
+
+}
+.Id{
+    width: 201px;
+    height: 45px;
+    border-radius: 10px;
+    border: 1px solid #E0E0E0;
+    margin-left: 114px;
+    padding-left: 16px;
+    font-family: Inter;
+
+}
+.title{
+    width: 593px;
+    height: 45px;
+    border-radius: 10px;
+    border: 1px solid #DADADA;
+    margin-left: 19px;
+    padding-left: 11px;
+    font-family: Inter;
+
+
+}
+.at{
+    width: 201px;
+    height: 45px;
+    border-radius: 10px;
+    border: 1px solid #E0E0E0;
+    margin-left:18px ;
+    padding-left: 16px;
+    font-family: Inter;
+
+
+    
+
+    
+}
+.search{
+    width: 115px;
+    height: 45px;
+    border-radius: 10px;
+    background: #FFD43A;
+    margin-left: 23px;
+    border: none;
+    font-family: Inter;
+
+}
+body{
+    margin:0;
+}
+
+th,td{
+    
+    height:57px ;
+}
+.id{
+    width: 72px;
+    height: 57px;
+    font-size: 15px;
+    font-weight: bold;
+    font-style: normal;
+    font-family: Inter;
+
+    
+}
+.title1{
+    width: 444px;
+    height: 57px;
+    font-size: 15px;
+    font-weight: bold;
+    padding-left: 23px;
+    text-align: start;
+    font-family: Inter;
+
+    
+
+    
+}
+.at1{
+    width: 276px;
+    height: 57px;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: bold;
+    text-align: center;
+    font-family: Inter;
+
+}
+.Action{
+    width: 190px;
+    height: 57px;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+    font-style: normal;
+    color: #000;
+    font-family: Inter;
+
+    
+    
+    
+}
+.table2{
+    margin-left:114px ;
+    border:1px solid #DADADA;
+    border-collapse: collapse;
+}
+
+.t1{
+    width: 72px;
+    height: 57px;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+    font-style: normal;
+    color: #000;
+    font-family: Inter;
+
+    
+    
+}
+.t2{
+    /* width: 444px;
+    height: 57px; */
+    text-align: center;
+    padding-left:23px ;
+    padding-right: 19px;
+    font-size: 15px;
+    text-align: justify;
+    font-weight: bold;
+    font-family: Inter;
+
+    
+}
+
+.t3{
+    /* width: 276px;
+    height: 57px; */
+    text-align: center;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: bold;
+    color: #F00;
+    font-family: Inter;
+
+    
+}
+.t4{
+    /* width: 251px;
+    height: 57px; */
+    font-size: 15px;
+    font-style: normal;
+    font-weight: bold;
+    text-align: center;  
+      font-family: Inter;
+
+    
+       
+}
+.t5{
+    text-align: center;
+    font-family: Inter;
+
+}
+
+button{
+    width: 115px;
+    height: 36px;
+    background-color: #FFD43A;
+    margin: auto;
+    font-weight: bold;
+    border: none;
+    font-family: Inter;
+
+
+}
+.button{
+    width: 115px;
+    height: 36px;
+    margin: auto;
+    font-weight: bold;
+    background: #F00;    
+    font-family: Inter;
+
+    
+} 
